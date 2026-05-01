@@ -1,0 +1,9 @@
+torch==2.2.2
+torch_xla==2.2.0
+jax[tpu]>=0.4.26
+google-tunix
+transformers
+datasets
+huggingface_hub
+accelerate
+vllm
